@@ -1,14 +1,14 @@
-layout_spectrum: 1
-typography_spectrum: 0.6810036
+layout_spectrum: 0.5652475
+typography_spectrum: 0.2379357
 color:
-  saturation: 0.7526882
-  lightness: 0.5860215
+  saturation: 0.4549061
+  lightness: 0.06517395
   brandStrength: 0.7545881
+  rhythmicContrast: 0.2319137
   brandColors:
-    - '#F9F9F9'
-    - '#303939'
-    - '#909189'
-    - '#F3E05C'
-    - '#F2304B'
-  rhythmicContrast: 0.5555556
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: Hellenrivera
